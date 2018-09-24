@@ -10,3 +10,4 @@ target/
 #Custom
 invoicedb.*
 db.json
+sql/
